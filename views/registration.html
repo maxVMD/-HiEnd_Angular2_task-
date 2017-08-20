@@ -6,8 +6,8 @@
         </div>
         <div class="col-md-6">
             <div class="page-header">
-                <button class="btn btn-default " [class.active]="isLangEn"  (click)="changeLang('en')">EN</button>
-                <button class="btn btn-default" [class.active]="!isLangEn"  (click)="changeLang('ru')">RU</button>
+                <button class="btn btn-default " [class.disabled]="isLangEn"  (click)="changeLang('en')">EN</button>
+                <button class="btn btn-default" [class.disabled]="!isLangEn"  (click)="changeLang('ru')">RU</button>
             </div>
         </div>
 	</div>
