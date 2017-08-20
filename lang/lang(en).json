@@ -1,0 +1,21 @@
+
+{
+	
+	"title": "Registration",
+	"title2": "Confirmation",
+	"text": "Welcome",
+	"button_next": "Next",
+	"button_goHome": "Go to Registration",
+	"name": "Name",
+	"login": "Login",
+	"email": "E-mail",
+	"pass": "Password",
+	"confPass": "Repeat password",
+
+	"_nameErr": "Name is required (minimum 5 characters)",
+	"_loginErr": "login is required",
+	"_emailErr": "Incorrect email and format should be ",
+	"_passErr": "Password is required (minimum 6 - max 8 characters)",
+	"confirmPassErr": "Passwords do not match "
+	
+}
